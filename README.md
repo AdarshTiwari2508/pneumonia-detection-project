@@ -5,7 +5,6 @@ This project focuses on automated pneumonia detection from chest X-ray images us
 
 The workflow includes:
 - Image preprocessing
-- Lung region segmentation
 - CNN-based pneumonia classification
 - Performance evaluation and analysis
 
